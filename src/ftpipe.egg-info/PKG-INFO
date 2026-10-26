@@ -1,6 +1,0 @@
-Metadata-Version: 2.4
-Name: ftpipe
-Version: 0.1.0
-Requires-Dist: pyulog
-Requires-Dist: pyarrow
-Requires-Dist: pandas
