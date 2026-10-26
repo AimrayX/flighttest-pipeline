@@ -4,3 +4,4 @@ data/
 raw/
 *.png
 .ipynb_checkpoints/
+*.egg-info/
