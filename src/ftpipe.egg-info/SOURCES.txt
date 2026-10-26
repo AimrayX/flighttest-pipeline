@@ -1,6 +1,14 @@
 pyproject.toml
+src/ftpipe/__init__.py
+src/ftpipe/align.py
+src/ftpipe/decode.py
+src/ftpipe/store.py
+src/ftpipe/validate.py
 src/ftpipe.egg-info/PKG-INFO
 src/ftpipe.egg-info/SOURCES.txt
 src/ftpipe.egg-info/dependency_links.txt
 src/ftpipe.egg-info/requires.txt
 src/ftpipe.egg-info/top_level.txt
+tests/test_align.py
+tests/test_store.py
+tests/test_validate.py
