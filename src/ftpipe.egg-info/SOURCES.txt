@@ -1,0 +1,6 @@
+pyproject.toml
+src/ftpipe.egg-info/PKG-INFO
+src/ftpipe.egg-info/SOURCES.txt
+src/ftpipe.egg-info/dependency_links.txt
+src/ftpipe.egg-info/requires.txt
+src/ftpipe.egg-info/top_level.txt
