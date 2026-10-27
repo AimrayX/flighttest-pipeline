@@ -6,3 +6,5 @@ raw/
 .ipynb_checkpoints/
 *.egg-info/
 .airflow/
+!img/*.png
+qc_report.csv

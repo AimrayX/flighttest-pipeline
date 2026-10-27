@@ -1,7 +1,9 @@
 [project]
 name = "ftpipe"
 version = "0.1.0"
-dependencies = ["pyulog", "pyarrow", "pandas"]
+[project.optional-dependencies]
+analysis = ["duckdb", "matplotlib", "ipykernel"]
+dev = ["pytest"]
 
 [build-system]
 requires = ["setuptools>=61"]
